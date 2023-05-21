@@ -15,5 +15,5 @@ An aspiring Software Developer, Machine learning and Deep Learning enthusiast.
 
 ---
 
-My website: https://lakshmigayathri19.github.io 
+My website: https://lakshmigayathri19.github.io/Portfolio/
 
